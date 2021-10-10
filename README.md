@@ -1,7 +1,7 @@
 <channel>
 <title>Canal personal</title>
 <item>
-	<title>Un vídeo de YouTube</title>
+	<title>DRAGON BALL Z </title>
 	<link>https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20Aventura%20m%C3%ADstica~1.mp4</link>
 	<description>Artista: SARATOGA
 Canción: Acuérdate De Mí
