@@ -9,4 +9,5 @@ Canción: Acuérdate De Mí
 Maldito Records (c)</description>
 	<media:thumbnail url="https://pbs.twimg.com/media/BSNBRI8CcAAB48T.jpg"/>
 	<media:thumbnail url="https://www.dragonball.uno/wp-content/uploads/2018/07/0.jpg"/>
+	
 </item>
